@@ -1,0 +1,43 @@
+.terminos {
+    padding: 140px 100px;
+    display: flex;
+    justify-content: center;
+}
+
+.contenedor-terminos {
+    max-width: 900px;
+    background: #f8f8f8;
+    padding: 40px;
+    border-radius: 15px;
+    box-shadow: 0 2px 6px rgba(0,0,0,0.1);
+}
+
+.contenedor-terminos h1 {
+    font-size: 40px;
+    color: #80B918;
+    margin-bottom: 10px;
+}
+
+.actualizado {
+    color: #777777b6 !important;
+    font-size: 14px;
+    margin-bottom: 30px;
+}
+
+.contenedor-terminos h2 {
+    font-size: 22px;
+    margin-top: 25px;
+    color: #75a719;
+}
+
+.contenedor-terminos p {
+    color: #555;
+    line-height: 1.7;
+    margin-top: 10px;
+}
+
+
+
+html {
+  scroll-behavior: smooth;
+}
